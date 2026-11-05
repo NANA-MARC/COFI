@@ -1,0 +1,24 @@
+{
+    "longueur_max_encodeur": 60,
+    "longueur_max_cible_complete": 62,
+    "longueur_decodeur": 61,
+    "taille_vocabulaire": 38125,
+    "tokens_speciaux": {
+        "PAD": {
+            "token": "<PAD>",
+            "id": 0
+        },
+        "UNK": {
+            "token": "<UNK>",
+            "id": 1
+        },
+        "SOS": {
+            "token": "<SOS>",
+            "id": 2
+        },
+        "EOS": {
+            "token": "<EOS>",
+            "id": 3
+        }
+    }
+}
